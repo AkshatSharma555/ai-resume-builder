@@ -1,10 +1,15 @@
-<p align="center" style="font-size:16px; color:#555;">
-Welcome to the official repository for the <strong>AI Resume Builder</strong>. This is a complete full-stack MERN application built to revolutionize how professionals create resumes using Artificial Intelligence.
-</p>
+<div align="center">
+  
+  <p style="font-size: 20px; line-height: 1.5; font-weight: 500; margin-bottom: 15px;">
+    Welcome to the official repository for the <strong>🚀 AI Resume Builder</strong>.<br>
+    This is a complete <b>Full-Stack MERN Application</b> built to revolutionize how professionals create resumes using <em>Artificial Intelligence</em>.
+  </p>
 
-<p style="color:#555;">
-The primary goal of this project is to provide an intelligent, ATS-friendly platform where users can generate high-impact professional summaries, optimize job descriptions, and export polished resumes in seconds—all powered by cutting-edge AI.
-</p>
+  <p style="font-size: 16px; line-height: 1.8; color: #666; max-width: 800px;">
+    <strong>The Primary Goal:</strong> To provide an intelligent, <strong>ATS-Friendly Platform</strong> where users can generate high-impact professional summaries, optimize job descriptions, and export polished resumes in seconds—all powered by <code style="color: #ea580c;">⚡ Cutting-Edge AI</code>.
+  </p>
+
+</div>
 
 <p align="center">
   <img src="./screenshots/landing-main.png" alt="Landing Page" width="100%" style="border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" />
